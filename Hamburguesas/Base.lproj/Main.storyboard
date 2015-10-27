@@ -41,7 +41,7 @@
                                     <constraint firstAttribute="height" constant="30" id="gxy-Zu-Eif"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
-                                <state key="normal" title="Quiero una hamburguesa">
+                                <state key="normal" title="Quiero una hamburguesa!!!">
                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
